@@ -1,3 +1,4 @@
+
 # firstnj
 first node.js study project
 
@@ -9,4 +10,11 @@ first node.js study project
 3. use web explorer to open: localhost:3000
 
 ## bower
+
+bower init
+
+bower install jquery
+
+bower install bootstrap
+
 
