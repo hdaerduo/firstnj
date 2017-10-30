@@ -13,8 +13,8 @@ first node.js study project
 
 bower init
 
-bower install jquery
+bower install jquery --save
 
-bower install bootstrap
+bower install bootstrap --save
 
 
